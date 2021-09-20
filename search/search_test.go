@@ -3,7 +3,7 @@ package search
 import (
 	"testing"
 
-	"github.com/ngorm/ngorm/fixture"
+	"github.com/akamajoris/ngorm/fixture"
 )
 
 func TestSearch(t *testing.T) {

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ngorm/ngorm/model"
+	"github.com/akamajoris/ngorm/model"
 )
 
 // Dialect interface contains behaviors that differ across SQL database

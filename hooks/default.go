@@ -10,14 +10,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ngorm/ngorm/builder"
-	"github.com/ngorm/ngorm/dialects"
-	"github.com/ngorm/ngorm/engine"
-	"github.com/ngorm/ngorm/errmsg"
-	"github.com/ngorm/ngorm/model"
-	"github.com/ngorm/ngorm/scope"
-	"github.com/ngorm/ngorm/search"
-	"github.com/ngorm/ngorm/util"
+	"github.com/akamajoris/ngorm/builder"
+	"github.com/akamajoris/ngorm/dialects"
+	"github.com/akamajoris/ngorm/engine"
+	"github.com/akamajoris/ngorm/errmsg"
+	"github.com/akamajoris/ngorm/model"
+	"github.com/akamajoris/ngorm/scope"
+	"github.com/akamajoris/ngorm/search"
+	"github.com/akamajoris/ngorm/util"
 )
 
 //Query executes sql Query without transaction. This first executes QuerySQL

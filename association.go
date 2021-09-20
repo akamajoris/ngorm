@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/ngorm/ngorm/model"
-	"github.com/ngorm/ngorm/scope"
-	"github.com/ngorm/ngorm/util"
+	"github.com/akamajoris/ngorm/model"
+	"github.com/akamajoris/ngorm/scope"
+	"github.com/akamajoris/ngorm/util"
 )
 
 // Association provides utility functions for dealing with association queries

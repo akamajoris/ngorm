@@ -7,7 +7,7 @@ import (
 	"time"
 
 	_ "github.com/cznic/ql/driver"
-	"github.com/ngorm/ngorm/fixture"
+	"github.com/akamajoris/ngorm/fixture"
 )
 
 type Foo struct {

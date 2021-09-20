@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ngorm/ngorm/fixture"
-	"github.com/ngorm/ngorm/search"
-	"github.com/ngorm/ql"
+	"github.com/akamajoris/ngorm/fixture"
+	"github.com/akamajoris/ngorm/search"
+	"github.com/akamajoris/ql"
 )
 
 func TestGroup(t *testing.T) {

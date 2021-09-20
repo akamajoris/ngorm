@@ -1,6 +1,6 @@
 package engine
 
-import "github.com/ngorm/ngorm/model"
+import "github.com/akamajoris/ngorm/model"
 
 var l *list
 

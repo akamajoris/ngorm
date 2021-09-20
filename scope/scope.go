@@ -15,11 +15,11 @@ import (
 	"time"
 
 	"github.com/jinzhu/inflection"
-	"github.com/ngorm/ngorm/engine"
-	"github.com/ngorm/ngorm/errmsg"
-	"github.com/ngorm/ngorm/model"
-	"github.com/ngorm/ngorm/regexes"
-	"github.com/ngorm/ngorm/util"
+	"github.com/akamajoris/ngorm/engine"
+	"github.com/akamajoris/ngorm/errmsg"
+	"github.com/akamajoris/ngorm/model"
+	"github.com/akamajoris/ngorm/regexes"
+	"github.com/akamajoris/ngorm/util"
 )
 
 //Quote quotes the str into an SQL string. This makes sure sql strings have ""

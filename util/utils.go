@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ngorm/ngorm/errmsg"
+	"github.com/akamajoris/ngorm/errmsg"
 	"github.com/oxtoacart/bpool"
 )
 

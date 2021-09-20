@@ -6,7 +6,7 @@
 // Installation
 //
 // You can install  with go get
-//   go get -u github.com/ngorm/ngorm
+//   go get -u github.com/akamajoris/ngorm
 //
 // Supported databases
 //
@@ -27,16 +27,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ngorm/ngorm/builder"
-	"github.com/ngorm/ngorm/dialects"
-	"github.com/ngorm/ngorm/engine"
-	"github.com/ngorm/ngorm/errmsg"
-	"github.com/ngorm/ngorm/hooks"
-	"github.com/ngorm/ngorm/model"
-	"github.com/ngorm/ngorm/regexes"
-	"github.com/ngorm/ngorm/scope"
-	"github.com/ngorm/ngorm/search"
-	"github.com/ngorm/ngorm/util"
+	"github.com/akamajoris/ngorm/builder"
+	"github.com/akamajoris/ngorm/dialects"
+	"github.com/akamajoris/ngorm/engine"
+	"github.com/akamajoris/ngorm/errmsg"
+	"github.com/akamajoris/ngorm/hooks"
+	"github.com/akamajoris/ngorm/model"
+	"github.com/akamajoris/ngorm/regexes"
+	"github.com/akamajoris/ngorm/scope"
+	"github.com/akamajoris/ngorm/search"
+	"github.com/akamajoris/ngorm/util"
 )
 
 //Opener is an interface that is used to open up connection to SQL databases.

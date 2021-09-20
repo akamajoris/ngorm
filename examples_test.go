@@ -5,7 +5,7 @@ import (
 	"log"
 	"sort"
 
-	"github.com/ngorm/ngorm/model"
+	"github.com/akamajoris/ngorm/model"
 
 	"strings"
 )

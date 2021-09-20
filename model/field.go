@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ngorm/ngorm/errmsg"
-	"github.com/ngorm/ngorm/util"
+	"github.com/akamajoris/ngorm/errmsg"
+	"github.com/akamajoris/ngorm/util"
 )
 
 // Field model field definition

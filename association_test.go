@@ -5,9 +5,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/ngorm/ngorm/fixture"
-	"github.com/ngorm/ngorm/model"
-	"github.com/ngorm/ngorm/scope"
+	"github.com/akamajoris/ngorm/fixture"
+	"github.com/akamajoris/ngorm/model"
+	"github.com/akamajoris/ngorm/scope"
 )
 
 type Cat struct {

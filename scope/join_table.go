@@ -6,10 +6,10 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/ngorm/ngorm/engine"
-	"github.com/ngorm/ngorm/model"
-	"github.com/ngorm/ngorm/search"
-	"github.com/ngorm/ngorm/util"
+	"github.com/akamajoris/ngorm/engine"
+	"github.com/akamajoris/ngorm/model"
+	"github.com/akamajoris/ngorm/search"
+	"github.com/akamajoris/ngorm/util"
 )
 
 // SetupJoinTable  initialize a default join table handler
